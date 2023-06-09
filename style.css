@@ -1,60 +1,111 @@
-body{
+body {
     background-color: rgb(37, 35, 35);
+    
 }
-.profile-pic{
+
+.profile-pic {
     width: 450px;
     margin-top: 20px;
     margin-left: 20px;
 }
-.pic-size{
+
+.pic-size {
     width: 40%;
 }
-.top-section{
+
+.top-section {
     display: flex;
 }
-.name h2{
+
+.name h2 {
     font-size: 20px;
     color: white;
     text-align: center;
 }
-.name h1{
+
+.name h1 {
     font-size: 30px;
     color: white;
     text-align: center;
 }
-.name p{
+
+.name p {
     font-size: 30px;
     color: yellow;
     text-align: center;
-    
+
 }
-.name{
-   margin-top: 20px;
-    width: 400px;
-    height: 50%;
-    
+
+.name {
+    margin-top:20px;
+    width: 380px;
+    height: 45%;
+    margin-left: 30px;
+
 }
-.name-oke{
+
+.name-oke {
     margin-top: 20%;
 }
-.second-part{
-    display: flex;
+
+.second-part {
+    display:flex;
+    flex-wrap: wrap;
+    
 }
-.about-me{
+
+.about-me {
     font-size: 30px;
     color: white;
     text-align: center;
     margin-top: 20px;
-    margin-left:30px;
+    margin-left: 30px;
     background-color: rgb(77, 75, 75);
-    width: 400px;
-    height: 50%;
+    width: 380px;
+    height: 40%;
     margin-right: 20px;
 
 }
-.about{
+
+.about {
     margin-top: 33%;
 }
-.me{
+
+.me {
+    color: yellow;
+}
+
+.hi {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 30px;
+    background-color: rgb(77, 75, 75);
+    width: 380px;
+    height: 45%;
+    margin-right: 20px;
+}
+.hlw{
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 10px;
+    background-color: rgb(77, 75, 75);
+    width: 380px;
+    height: 45%;
+    margin-right: 20px;
+}
+.portfolio{
+    margin-top: 32%;
+}
+.touch{
+    margin-top: 32%;
+}
+.portfolio-color{
+    color: yellow;
+}
+.touch-color{
     color: yellow;
 }
