@@ -1,13 +1,11 @@
-h1{
-    color: rgb(253, 104, 45);
-    font-size: 50px;
-}
-.first-section{
-    width: 50%;
-}
-.info{
-    display: flex;
+body{
+    background-color: rgb(37, 35, 35);
 }
 .profile-pic{
-    width:100px;
+    width: 450px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.pic-size{
+    width: 40%;
 }
