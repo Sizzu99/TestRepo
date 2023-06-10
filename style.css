@@ -109,3 +109,19 @@ body {
 .touch-color{
     color: yellow;
 }
+.about-me-button{
+    font-size: 40px;
+    padding: 100px 140px;
+    background-color: rgb(46, 45, 45);
+    color: white;
+    border: none;
+}
+.oooo :hover .ii{
+    color: yellow;
+}
+.aa{
+    color: yellow;
+}
+.oooo :hover .aa{
+    color: white;
+}
